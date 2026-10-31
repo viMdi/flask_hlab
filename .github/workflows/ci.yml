@@ -34,4 +34,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.actor }}/flask-hlab:latest
+          tags: ghcr.io/vimdi/flask_hlab:latest
